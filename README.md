@@ -8,3 +8,4 @@
 
 [![Download](https://img.shields.io/github/v/release/iwch22/Mlp-units-display?color=green&include_prereleases&label=DOWNLOAD%20LATEST%20RELEASE&logo=github&logoColor=green&style=for-the-badge)](https://github.com/iwch22/Mlp-units-display/releases) [![Total Downloads](https://img.shields.io/github/downloads/iwch22/Mlp-units-display/total?color=555555&label=%20&style=for-the-badge&logo=docusign&logoColor=green)](https://github.com/iwch22/Mlp-units-display/releases)
 
+[![Latest Version](https://img.shields.io/badge/Gmail%20-red)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqWgKQZLchKRTfsJwqHMBDDmzZcbFvgltFZWbMsTjHNhWDjQFnZNDjRfqMXTnMNhhPkXnq)
