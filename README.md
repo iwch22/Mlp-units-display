@@ -1,4 +1,4 @@
 # Mlp-units-display
-Anime units display but with mlp pony
+`Anime units display` but with mlp pony
 
-original mod: https://github.com/aazamitsu/anime-units-display
+`Original mod`: https://github.com/aazamitsu/anime-units-display
